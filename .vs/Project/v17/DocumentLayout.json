@@ -1,0 +1,810 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\items\\find.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\items\\find.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\controllers\\shoppingbasketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:controllers\\shoppingbasketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\models\\finditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:models\\finditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\models\\shoppingbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:models\\shoppingbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\20250113190121_p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\20250113190121_p1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\applicationdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\applicationdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\20250114212430_m1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\20250114212430_m1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\20250114215040_m4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\20250114215040_m4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\20250114214301_m3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\20250114214301_m3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\20250113190121_p1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\20250113190121_p1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\20250114215040_m4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\20250114215040_m4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\shoppingbaskets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\shoppingbaskets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\shoppingbaskets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\shoppingbaskets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\shoppingbaskets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\shoppingbaskets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\20250114221147_m5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\20250114221147_m5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\20250114212430_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\20250114212430_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|c:\\users\\yazan\\desktop\\yazan visualstudio 2022\\project1\\migrations\\20250114214301_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B5CB08-3087-4CEF-82BE-26C989538F9C}|Project.csproj|solutionrelative:migrations\\20250114214301_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Find.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Find.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Find.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Find.cshtml",
+              "RelativeToolTip": "Views\\Items\\Find.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T17:13:22.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:06:15.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:37:07.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:41:31.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvx8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:43:35.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingBasketsController.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Controllers\\ShoppingBasketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoppingBasketsController.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Controllers\\ShoppingBasketsController.cs",
+              "RelativeToolTip": "Controllers\\ShoppingBasketsController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:06:27.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Finditem.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\Finditem.cs",
+              "RelativeDocumentMoniker": "Models\\Finditem.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\Finditem.cs",
+              "RelativeToolTip": "Models\\Finditem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:38:41.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:40:47.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwCkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:41:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:42:05.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "Views\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:42:22.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T18:42:50.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:42:46.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShoppingBasket.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\ShoppingBasket.cs",
+              "RelativeDocumentMoniker": "Models\\ShoppingBasket.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\ShoppingBasket.cs",
+              "RelativeToolTip": "Models\\ShoppingBasket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:39:52.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:38:58.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:38:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "Views\\Items\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T22:19:46.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250114221147_m5.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114221147_m5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250114221147_m5.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114221147_m5.cs",
+              "RelativeToolTip": "Migrations\\20250114221147_m5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:11:47.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bootstrap.rtl.css",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "ViewState": "AgIAAO4UAAAAAAAAAAAUwAEVAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T22:05:58.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAPAUAAAAAAAAAAAUwAMVAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T22:05:54.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap-reboot.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAABgDwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T22:05:50.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bootstrap-reboot.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAB0JgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-14T22:05:48.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootstrap-reboot.rtl.css",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAAAH4BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T22:05:47.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250114212430_m1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114212430_m1.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250114212430_m1.Designer.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114212430_m1.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250114212430_m1.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAewFsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:05:25.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAewFgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:05:37.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250113190121_p1.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250113190121_p1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250113190121_p1.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250113190121_p1.cs",
+              "RelativeToolTip": "Migrations\\20250113190121_p1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAewB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:01:22.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap-reboot.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdoAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-14T22:05:51.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAexAQAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-14T22:05:55.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "bootstrap-reboot.min.css.map",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADPVgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-14T22:05:45.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABQWAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-14T22:05:42.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAAAIABAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T22:05:40.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250114215040_m4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114215040_m4.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250114215040_m4.Designer.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114215040_m4.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250114215040_m4.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAtwPYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:05:35.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250114214301_m3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114214301_m3.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250114214301_m3.Designer.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114214301_m3.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250114214301_m3.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAtwPYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:05:28.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250113190121_p1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250113190121_p1.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250113190121_p1.Designer.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250113190121_p1.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250113190121_p1.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAtwPYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:05:21.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:41:58.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:41:52.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250114215040_m4.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114215040_m4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250114215040_m4.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114215040_m4.cs",
+              "RelativeToolTip": "Migrations\\20250114215040_m4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:50:41.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250114212430_m1.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114212430_m1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250114212430_m1.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114212430_m1.cs",
+              "RelativeToolTip": "Migrations\\20250114212430_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:24:30.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250114214301_m3.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114214301_m3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250114214301_m3.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Migrations\\20250114214301_m3.cs",
+              "RelativeToolTip": "Migrations\\20250114214301_m3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:43:01.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Data\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Data\\ApplicationDataContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:41:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:43:02.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:42:57.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\ShoppingBaskets\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ShoppingBaskets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\ShoppingBaskets\\Create.cshtml",
+              "RelativeToolTip": "Views\\ShoppingBaskets\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:43:06.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\ShoppingBaskets\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ShoppingBaskets\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\ShoppingBaskets\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ShoppingBaskets\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:43:11.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\ShoppingBaskets\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ShoppingBaskets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\ShoppingBaskets\\Details.cshtml",
+              "RelativeToolTip": "Views\\ShoppingBaskets\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:43:18.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Details.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Details.cshtml",
+              "RelativeToolTip": "Views\\Items\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:42:35.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Items\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Items\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:42:32.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:42:15.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\YAZAN\\Desktop\\yazan VisualStudio 2022\\Project1\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:40:57.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

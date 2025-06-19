@@ -1,0 +1,42 @@
+﻿@model Project.Models.ShoppingBasket
+
+@{
+    ViewData["Title"] = "Details Shopping List";
+}
+
+<h1>@ViewBag.Title</h1>
+
+<div>
+    <h4>ShoppingBasket</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.quantity)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.quantity)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ArrivedTime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ArrivedTime)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.customer)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.customer.CustomerName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.items)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.items.ItamName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ShoppingBasketId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

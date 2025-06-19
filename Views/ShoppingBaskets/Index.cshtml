@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Project.Models.ShoppingBasket>
+
+@{
+    ViewData["Title"] = "Shopping Basket List";
+    ViewData["TotalPrice"] = 0.0;
+    ViewData["Price"] = 0.0;
+}
+
+<h1>@ViewBag.Title</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success btn-sm">Add to Basket</a>
+    
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ArrivedTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.customer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.items)
+            </th>
+            <th>
+                Total Price
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArrivedTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.customer!.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.items!.ItamName)
+            </td>
+            <td>
+                    $@((ViewBag.Price = (int)item.quantity * (Double)item.items.Price))
+                    <p hidden>@(ViewBag.TotalPrice += ViewBag.Price)</p>
+                </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ShoppingBasketId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ShoppingBasketId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ShoppingBasketId">Delete</a>
+            </td>
+        </tr>
+        }
+        <p>total price for the Shopping Basket = @(ViewBag.TotalPrice.ToString("C")) </p>
+    </tbody>
+</table>
